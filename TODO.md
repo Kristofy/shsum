@@ -7,11 +7,11 @@
 
 
 ## Generate training data
-- [ ] Get linux commands
-- [ ] Querry man pages
-- [ ] Get summary with tldr
+- [x] Get linux commands
+- [x] Querry man pages
+- [x] Get summary with tldr
 - [ ] Get summary with bropages
-- [ ] Get summary with cheat.sh
+- [x] Get summary with cheat.sh
 - [ ] Clean up the training data
 
 
@@ -21,7 +21,7 @@
 - [ ] Set up a small playground in google collab, which automatically updates and saves a modell on HuggingFace
   - [ ] Save on Error
   - [ ] Save on Finish
-  - [ ] Perhaps track the progress in a versioning system so it is reversablex
+  - [ ] Perhaps track the progress in a versioning system so it is reversable
 
 
 ## Application
